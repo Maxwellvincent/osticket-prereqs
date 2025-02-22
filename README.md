@@ -48,7 +48,7 @@ Create a Windows 10 VM in Azure with 4 vCPUs and enable RDP access. This VM will
 - Install MySQL 5.5.62, creating a database for osTicket
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/deVHeR4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
