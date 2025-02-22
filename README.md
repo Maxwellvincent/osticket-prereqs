@@ -75,5 +75,5 @@ Create a Windows 10 VM in Azure with 4 vCPUs and enable RDP access. This VM will
 - Set ost-config.php to read-only to prevent unauthorized changes.
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/1WkLltX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
